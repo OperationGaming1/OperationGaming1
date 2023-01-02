@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OperationGaming1
+- -👀 I’m interested in Web development & Game developement
+- 🌱 I’m currently learning ... Backend and frontend webd esign
+- 💞️ I’m looking to collaborate on a 2D game speificly a 2D artist
+- 📫 How to reach me operationgaming1@outlook.com
